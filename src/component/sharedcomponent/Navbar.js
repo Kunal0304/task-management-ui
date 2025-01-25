@@ -12,7 +12,7 @@ export default function Navbar({ name, role }) {
 
 
   const [toggleMenu, setToggleMenu] = useState(false);
-  const ENDPOINT = "http://localhost:4000";
+  const ENDPOINT = process.env.REACT_APP_SOCKET_ENDPOINT;
   const socket = io(ENDPOINT);
 
   const nameDisplay = name;

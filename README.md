@@ -9,6 +9,8 @@ A collaborative task management application that allows users to create, assign,
 - Add new team members.
 - Assign tasks to users.
 - View task progress for each user.
+- Get notification task update task status
+- Get notification assign task
 
 ### Non-Admin Users
 
@@ -32,7 +34,7 @@ A collaborative task management application that allows users to create, assign,
 
 ## Frontend URL
 
-[Visit the Application](https://task-manager-ui-brown.vercel.app)
+[Visit the Application](https://task-management-ui-ten.vercel.app)
 
 
 
@@ -44,14 +46,14 @@ A collaborative task management application that allows users to create, assign,
 - npm or yarn
 - A .env file with the following variables:
   ```env
-  REACT_APP_API_URL=https://task-manager-apis-kjd4.onrender.com
+  REACT_APP_API_URL=https://task-management-9yfh.onrender.com
   ```
 
 ### Steps to Run Locally
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Kunal0304/task-manager_ui.git
+   git clone https://github.com/Kunal0304/task-management-ui.git
    cd task-manager-frontend
    ```
 2. **Install dependencies**:
@@ -78,7 +80,7 @@ npm test
 
 ## Deployment Link
 
-[Visit the Deployed Application](https://task-manager-ui-brown.vercel.app)
+[Visit the Deployed Application](https://task-management-ui-ten.vercel.app)
 
 ---
 

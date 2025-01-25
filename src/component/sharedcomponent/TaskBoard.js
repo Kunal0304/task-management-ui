@@ -164,7 +164,7 @@ const TaskBoard = ({ addTask, role, isSetCount }) => {
     Completed: [],
   });
 
-  const ENDPOINT = "http://localhost:4000";
+  const ENDPOINT = process.env.REACT_APP_SOCKET_ENDPOINT;
   const socket = io(ENDPOINT);
 
   useEffect(() => {
