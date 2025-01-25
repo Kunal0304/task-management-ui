@@ -34,7 +34,7 @@ A collaborative task management application that allows users to create, assign,
 
 ## Frontend URL
 
-[Visit the Application](https://task-management-ui-ten.vercel.app)
+[Visit the Application](https://task-management-ui-eta.vercel.app)
 
 
 
@@ -80,7 +80,7 @@ npm test
 
 ## Deployment Link
 
-[Visit the Deployed Application](https://task-management-ui-ten.vercel.app)
+[Visit the Deployed Application](https://task-management-ui-eta.vercel.app)
 
 ---
 
