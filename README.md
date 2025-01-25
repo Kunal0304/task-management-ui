@@ -22,15 +22,15 @@ A collaborative task management application that allows users to create, assign,
 ### Admin Credentials
 
 - **Email Address**: admin@gmail.com
-- **Password**: admin@123
+- **Password**: Admin@123
 
 ### User Credentials
 
 - **Email**: testuser01@gmail.com
-  **Password**: user01@123
+  **Password**: User01@123
 
 - **Email**: testuser02@gmail.com
-  **Password**: user02@123
+  **Password**: User02@123
 
 ## Frontend URL
 
