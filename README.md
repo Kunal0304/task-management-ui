@@ -46,7 +46,8 @@ A collaborative task management application that allows users to create, assign,
 - npm or yarn
 - A .env file with the following variables:
   ```env
-  REACT_APP_API_URL=https://task-management-9yfh.onrender.com
+REACT_APP_URL=https://task-management-9yfh.onrender.com/api
+REACT_APP_SOCKET_ENDPOINT=https://task-management-9yfh.onrender.com
   ```
 
 ### Steps to Run Locally
